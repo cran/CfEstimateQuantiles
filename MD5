@@ -1,0 +1,5 @@
+9ef44bc0f7dcb7bad1f24f47f171ddea *DESCRIPTION
+7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
+78ae0493c33561562c5f1e085076c63b *R/cf_estimate_quantiles.R
+4447efd04aacef2cf50961a494231ac1 *man/CfEstimateQuantiles-package.Rd
+d17e5308792d0b70e51c2963fac6f2df *man/cf_estimate_quantiles.Rd
